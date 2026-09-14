@@ -8,7 +8,7 @@ require (
 	github.com/go-sql-driver/mysql v1.10.1
 	github.com/grokify/gogit v0.8.0
 	github.com/invopop/jsonschema v0.14.0
-	github.com/modelcontextprotocol/go-sdk v1.7.0
+	github.com/modelcontextprotocol/go-sdk v1.8.0
 	github.com/plexusone/omnidevx-core v0.3.0
 	github.com/spf13/cobra v1.10.2
 )
