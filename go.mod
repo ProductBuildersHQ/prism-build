@@ -5,7 +5,7 @@ go 1.26.4
 require (
 	entgo.io/ent v0.14.6
 	github.com/dolthub/driver v1.88.1
-	github.com/go-sql-driver/mysql v1.10.1
+	github.com/go-sql-driver/mysql v1.10.2
 	github.com/grokify/gogit v0.15.1
 	github.com/invopop/jsonschema v0.14.0
 	github.com/modelcontextprotocol/go-sdk v1.8.0
